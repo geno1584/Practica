@@ -1,3 +1,2 @@
 # Practica
-ejemplo
-pruebasyejemplosestudiantes.wq/biblia-app
+pruebasyejemplosestudiantes-wq/biblia-app
